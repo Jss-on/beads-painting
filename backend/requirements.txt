@@ -1,0 +1,6 @@
+fastapi
+Pillow
+reportlab
+tqdm
+python-multipart
+websockets
